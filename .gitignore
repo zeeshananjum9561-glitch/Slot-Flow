@@ -1,0 +1,5 @@
+node_modules/
+*.log
+src/db/slotflow.db
+.env
+.DS_Store
